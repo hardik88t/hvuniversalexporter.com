@@ -4,14 +4,14 @@ An Export Website Built with the help of (nicepage.com)[https://nicepage.com]
 
 Credits :
 -------
-=> Design and developed: "Hardik88t"  http://github.com/hardik88t 
-=> For more free web themes: http://nicepage.com 
+=> Design and developed: "Hardik88t"  https://github.com/hardik88t 
+=> For more free web themes: https://nicepage.com 
 
 
 
 License :
 -------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+**Creative Commons Attribution 3.0** - https://creativecommons.org/licenses/by/3.0/
 
 - You are allowed to use all files for both personal and commercial projects.
 
