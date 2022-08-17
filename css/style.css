@@ -3691,6 +3691,10 @@ input[type="button"].btn-block {
   font-size: 1.25rem;
 }
 
+#nm1{
+  color:red;
+}
+
 .custom-file {
   position: relative;
   display: inline-block;
